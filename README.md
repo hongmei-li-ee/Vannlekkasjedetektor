@@ -32,7 +32,7 @@ Underveis ble jeg nysgjerrig på hva som faktisk gjør vann ledende.
 Rent, destillert vann leder dårlig.
 Men vann fra springen, elver og hav inneholder oppløste mineraler og salter (ioner) som kan bevege seg fritt. Det er disse ionene som bærer elektrisk ladning – og derfor leder vann strøm godt.
 📸 Bilder
-
+!1.jpg
 🔗 **Tutorial**
 https://www.youtube.com/watch?v=Umkw15FETno&list=PLSZonzWHNUBA4RO6sT7ZUckkuLe-UR-Pz
 
