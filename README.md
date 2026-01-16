@@ -34,11 +34,8 @@ Men vann fra springen, elver og hav inneholder oppløste mineraler og salter (io
 
 
 📸 Bilder
-
-![Open circuit](waterleakagedetector/1.jpg)
-![Testing](waterleakagedetector/2.png)
-!Result
-
+!(waterleakagedetector/1.jpg)
+!(waterleakagedetector/2.png)
 
 🔗 **Tutorial**
 https://www.youtube.com/watch?v=Umkw15FETno&list=PLSZonzWHNUBA4RO6sT7ZUckkuLe-UR-Pz
