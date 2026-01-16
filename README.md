@@ -31,8 +31,15 @@ Jeg testet sensoren på forskjellige objekter og overflater bare for gøy—gaff
 Underveis ble jeg nysgjerrig på hva som faktisk gjør vann ledende.
 Rent, destillert vann leder dårlig.
 Men vann fra springen, elver og hav inneholder oppløste mineraler og salter (ioner) som kan bevege seg fritt. Det er disse ionene som bærer elektrisk ladning – og derfor leder vann strøm godt.
+
+
 📸 Bilder
-!1.jpg
+
+![Open circuit](images/1.jpg)
+![Testing](images/2.png)
+!Result
+
+
 🔗 **Tutorial**
 https://www.youtube.com/watch?v=Umkw15FETno&list=PLSZonzWHNUBA4RO6sT7ZUckkuLe-UR-Pz
 
